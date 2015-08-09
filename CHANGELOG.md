@@ -1,3 +1,8 @@
+## 0.1.4
+
+* added setting `type`
+* readme modified
+
 ## 0.1.3
 
 * minor modifications

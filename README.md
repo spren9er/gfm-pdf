@@ -19,6 +19,7 @@ You configure `gfm-pdf` by editing `~/.atom/config.cson`
 ```coffee
 'gfm-pdf':
   'executablePath': '/usr/local/bin/wkhtmltopdf'
+  'type': 'PDF'
   'fontSize': '16px'
   'width': '790px'
 ```
