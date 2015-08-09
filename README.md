@@ -14,13 +14,16 @@ $ apm install gfm-pdf
 
 ## Settings
 
-You can configure `gfm-pdf` by editing `~/.atom/config.cson`
+You configure `gfm-pdf` by editing `~/.atom/config.cson`
 
 ```coffee
 'gfm-pdf':
-  'font-size': '16px'
+  'executablePath': '/usr/local/bin/wkhtmltopdf'
+  'fontSize': '16px'
   'width': '790px'
 ```
+
+You need to provide the path to your `wkhtmltopdf` binary under `executablePath` as above.  
 
 **Note:** For further modifications you can edit your stylesheet `~/.atom/styles.less`, the corresponding wrapper class is called `gfm-pdf`, e.g.
 

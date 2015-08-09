@@ -1,7 +1,12 @@
+## 0.1.3
+
+* minor modifications
+* readme modified
+
 ## 0.1.2
 
 * console.log's removed
-* added setting `executable path` for wkhtmltopdf 
+* added setting `executable path` for wkhtmltopdf
 
 ## 0.1.1
 
