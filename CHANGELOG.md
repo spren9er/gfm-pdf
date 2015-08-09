@@ -1,3 +1,7 @@
+## 0.1.6
+
+* `type` options reordered
+
 ## 0.1.5
 
 * settings renamed and thus reordered
