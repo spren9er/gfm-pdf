@@ -19,9 +19,9 @@ You configure `gfm-pdf` by editing `~/.atom/config.cson`
 ```coffee
 'gfm-pdf':
   'executablePath': '/usr/local/bin/wkhtmltopdf'
+  'styleFontSize': '12px'
+  'styleWidth': '520px'
   'type': 'PDF'
-  'fontSize': '16px'
-  'width': '790px'
 ```
 
 You need to provide the path to your `wkhtmltopdf` binary under `executablePath` as above.  
@@ -36,4 +36,4 @@ You need to provide the path to your `wkhtmltopdf` binary under `executablePath`
 
 ## Usage
 
-Open a markdown document and convert it to PDF using the `gfm-pdf:convert` command.
+Open a markdown document and convert it using the `gfm-pdf:convert` command. The generated document(s) will be saved in the same directory as the input file.

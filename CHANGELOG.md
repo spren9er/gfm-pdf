@@ -1,3 +1,8 @@
+## 0.1.5
+
+* settings renamed and thus reordered
+* readme modified
+
 ## 0.1.4
 
 * added setting `type`
