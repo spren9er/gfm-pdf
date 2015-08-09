@@ -1,13 +1,16 @@
 {
   "name": "gfm-pdf",
   "main": "./lib/gfm-pdf",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert GFM (GitHub Flavored Markdown) to PDF using wkhtmltopdf",
   "activationCommands": {
     "atom-workspace": "gfm-pdf:convert"
   },
-  "keywords" : [
-    "wkhtmltopdf", "markdown", "pdf", "gfm"
+  "keywords": [
+    "wkhtmltopdf",
+    "markdown",
+    "pdf",
+    "gfm"
   ],
   "repository": "https://github.com/spren9er/gfm-pdf",
   "license": "MIT",
