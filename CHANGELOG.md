@@ -1,3 +1,7 @@
+## 0.1.7
+
+* minor fixes and modifications
+
 ## 0.1.6
 
 * `type` options reordered

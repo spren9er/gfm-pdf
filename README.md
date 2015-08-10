@@ -24,9 +24,9 @@ You configure `gfm-pdf` by editing `~/.atom/config.cson`
   'type': 'PDF'
 ```
 
-You need to provide the path to your `wkhtmltopdf` binary under `executablePath` as above.  
+You need to provide the path to your `wkhtmltopdf` binary under `executablePath` as above. The available types of output are `PDF`, `PDF+HTML` or `HTML`.
 
-**Note:** For further modifications you can edit your stylesheet `~/.atom/styles.less`, the corresponding wrapper class is called `gfm-pdf`, e.g.
+**Note:** For further CSS modifications you can edit your stylesheet `~/.atom/styles.less`, the corresponding wrapper class is called `gfm-pdf`, e.g.
 
 ```css
 .gfm-pdf h1 {
