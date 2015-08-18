@@ -1,3 +1,7 @@
+## 0.1.8
+
+* table header fix
+
 ## 0.1.7
 
 * minor fixes and modifications
