@@ -1,5 +1,7 @@
 ## 0.3.1
 
+* html structure added
+* utf-8 support
 * changelog fixed
 
 ## 0.3.0
