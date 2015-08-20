@@ -1,4 +1,8 @@
-## 0.2.0
+## 0.3.1
+
+* changelog fixed
+
+## 0.3.0
 
 * table header fix
 
