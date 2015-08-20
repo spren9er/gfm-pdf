@@ -1,7 +1,7 @@
 {
   "name": "gfm-pdf",
   "main": "./lib/gfm-pdf",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Convert GFM (GitHub Flavored Markdown) to PDF using wkhtmltopdf",
   "activationCommands": {
     "atom-workspace": "gfm-pdf:convert"
