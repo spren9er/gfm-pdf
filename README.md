@@ -1,8 +1,6 @@
 # gfm-pdf
 
-Export GFM (GitHub Flavored Markdown) documents to PDF using `wkhtmltopdf`.
-The package is intended to generate a high-quality and professional GitHub flavored PDF (or HTML page), whose content is
-copyable and where links are clickable, i.e. where pages are **not** only images.
+Export GFM (GitHub Flavored Markdown) documents to PDF using `wkhtmltopdf`. The package is intended to generate a high-quality and professional GitHub flavored PDF (or HTML page), whose content is copyable and where links are clickable, i.e. where pages are **not** only images.
 
 ## Requirements
 
@@ -28,7 +26,7 @@ You configure `gfm-pdf` by editing `~/.atom/config.cson`
 
 You need to provide the path to your `wkhtmltopdf` binary under `executablePath` as above. The available types of output are `PDF`, `PDF+HTML` or `HTML`.
 
-**Note:** For further CSS modifications you can edit your stylesheet `~/.atom/styles.less`, the corresponding wrapper class is called `gfm-pdf`, e.g.
+**Note:** For further CSS modifications you can edit your stylesheet `~/.atom/styles.less`; the corresponding wrapper class is called `gfm-pdf`, e.g.
 
 ```css
 .gfm-pdf h1 {
