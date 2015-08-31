@@ -1,6 +1,8 @@
 # gfm-pdf
 
-Convert GFM (GitHub Flavored Markdown) documents to PDF using `wkhtmltopdf`.
+Export GFM (GitHub Flavored Markdown) documents to PDF using `wkhtmltopdf`.
+The package is intended to generate a high-quality and professional GitHub flavored PDF (or HTML page), whose content is
+copyable and where links are clickable, i.e. where pages are **not** only images.
 
 ## Requirements
 
