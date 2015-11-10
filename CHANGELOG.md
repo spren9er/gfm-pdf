@@ -1,3 +1,7 @@
+## 0.3.4
+
+* table css modified (fixed column layout)
+
 ## 0.3.3
 
 * readme modified
