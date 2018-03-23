@@ -1,6 +1,10 @@
-## 0.3.4
+## 0.3.5
 
 * markdown-preview copyHTML fix
+
+## 0.3.4
+
+* table css modified (fixed column layout)
 
 ## 0.3.3
 
