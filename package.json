@@ -12,7 +12,7 @@
     "pdf",
     "gfm"
   ],
-  "repository": "git://github.com/spren9er/gfm-pdf.git",
+  "repository": "git@github.com/spren9er/gfm-pdf.git",
   "license": "MIT",
   "author": "Torsten Sprenger (github.com/spren9er)",
   "engines": {
