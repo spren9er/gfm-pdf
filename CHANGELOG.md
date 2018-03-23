@@ -1,3 +1,7 @@
+## 0.3.4
+
+* markdown-preview copyHTML fix
+
 ## 0.3.3
 
 * readme modified
